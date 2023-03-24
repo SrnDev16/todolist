@@ -10,7 +10,7 @@
 
 body {
     display: flex;
-    background-color: #C5C5C5;
+    background-color: #454e59;
     flex-direction: column;
     align-items: center;
     min-height: 100vh;
@@ -37,7 +37,7 @@ body {
 }
 
 p {
-    color: #393E46;
+    color: #222831;
 }
 
 h1 {
@@ -64,7 +64,7 @@ input[type="text"] {
     font-size: 16px;
     width: 100%;
     background-color: #C5C5C5;
-    color: #393E46;
+    color: #222831;
 }
 
 #deleteBtn {
