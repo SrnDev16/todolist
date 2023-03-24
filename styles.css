@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Itim&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@200&display=swap');
 
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Sriracha', cursive;
+    font-family: 'Mali', cursive;
     color: #EEEEEE;
 }
 
@@ -41,7 +41,7 @@ p {
 }
 
 h1 {
-    color: #AAE3E2;
+    color: #00ADB5;
 }
 
 h3 {
